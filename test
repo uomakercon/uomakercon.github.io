@@ -1,0 +1,442 @@
+<div class="friday" <h2 style="text-align:left;  color: white;font-size:1.6em; padding-bottom:50px">Friday, October 27<sup>th</sup> - 5pm-9pm</h2>
+
+  <center>
+    <table class="agendatable">
+      <tr>
+        <td>
+          5:30
+        </td>
+        <td>
+          Arrival and Networking
+        </td>
+      </tr>
+      <tr>
+        <td>
+          5:45
+        </td>
+        <td>
+          Opening remarks <br /><br />
+          <div class="biobox">
+            <div class="hover-image">
+              <img class="bioimg" src="pictures/fremont.png" />
+              <h4>President and Vice-Chancellor of the University of Ottawa</h4>
+            </div>
+            <h3 class="biohead">Jacques Frémont</h3>
+            <h5 class="biohead">Opening Remarks</h5>
+          </div>
+
+          <div class="biobox">
+            <div class="hover-image">
+              <img class="bioimg" src="pictures/beauvais.png" />
+              <h4>  Dean, Faculty of Engineering</h4>
+            </div>
+
+            <h3 class="biohead">Jacques Beauvais</h3>
+            <h5 class="biohead">Opening Remarks</h5>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          6:30
+        </td>
+        <td>
+          <div class="bioboxtable" style="width:250px">
+            <div class="hover-image">
+              <img class="bioimgtable" style="width:100%"src="pictures/anis.png" />
+              <h4> Panelist will explore the ways in which the maker culture can encourage diversity as well as the challenges in ensuring inclusion </h4>
+            </div>
+            <h3 class="biohead">Moderator:<br /> Hanan Anis</h3>
+            <h5 class="biohead" style="padding:10px;"><u>Panel</u><br /> Making, Open Innovation<br /> and <br />Socio-Economic Inclusion</h5>
+          </div>
+        </center>
+      </div>
+
+        </td>
+      </tr>
+    </table>
+
+
+
+
+</div>
+
+<div style="border-radius:10px;padding:10px;margin-top:20px">
+
+  <h2 style="text-align:left;">Saturday, October 28<sup>th</sup></h2>
+
+  <center>
+
+    <table class="agendatable">
+      <thead>
+
+        <tr>
+          <th>
+
+          </th>
+          <th>
+            <h3>Maker</h3>
+
+          </th>
+          <th>
+            <h3>Mentor</h3>
+
+          </th>
+          <th>
+            <h3>        Skill <br />Building
+            </h3>
+          </th>
+        </tr>
+      </thead>
+
+      <tr>
+        <td class="time">
+          9:00
+        </td>
+        <td colspan="3" style="text-align:center;">
+          <div class="bioboxtable green">
+            <div class="hover-image">
+              <img class="bioimgtable" src="pictures/gaboune.png" />
+              <h4>Redesigning education systems to raise fulfilled global citizens with the necessary knowledge, skills and character to solve humanity's most pressing challenges </h4>
+            </div>
+            <h3 class="biohead">Youssef Gaboune</h3>
+            <h5 class="biohead">Redesigning Education Systems </h5>
+          </div>
+        </td>
+      </tr>
+
+      <tr>
+        <td class="time">
+          10:00
+        </td>
+
+        <td>
+
+
+          <div class="bioboxtable yellow">
+            <div class="hover-image">
+              <img class="bioimgtable" src="pictures/dresden.png" />
+              <h4>What is the difference between a Makerspace and a Hackerspace? How did each evolve and where are they going?</h4>
+            </div>
+            <h3 class="biohead">Tailor Dresden</h3>
+            <h5 class="biohead">Hakerspace v.s.<br /> Makerspace
+</h5>
+          </div>
+        </td>
+        <td rowspan="2">
+
+          <div class="bioboxtable ">
+            <div class="hover-image">
+              <img class="bioimgtable" src="pictures/discuss.png" />
+              <h4> </h4>
+            </div>
+            <h3 class="biohead">Discussion Panel</h3>
+            <h5 class="biohead">Making in <br />Medecine
+</h5>
+          </div>
+        </td>
+
+        <td>
+
+          <div class="bioboxtable lightorange">
+            <div class="hover-image">
+              <img class="bioimgtable" src="pictures/cobill.png" />
+              <h4>Learn how to create your own paint as well as some interesting methods to apply paint to your projects </h4>
+            </div>
+            <h3 class="biohead">Jason Cobill</h3>
+            <h5 class="biohead">Weird <br />Paint</h5>
+          </div>
+        </td>
+
+      </tr>
+
+      <td class="time">
+        11:00
+      </td>
+
+<td>
+<div class="bioboxtable yellow">
+<div class="hover-image">
+<img class="bioimgtable" src="pictures/jones.jpg" />
+<h4> </h4>
+</div>
+<h3 class="biohead">Adrian Jones</h3>
+<h5 class="biohead">
+SENSE-I: Multi-Sensory Interactive Products
+<br />
+</h5>
+</div>
+</td>
+
+
+
+      </td>
+      <td>
+        <div class="bioboxtable lightorange">
+          <div class="hover-image">
+            <img class="bioimgtable" src="pictures/martinez.jpeg" />
+            <h4>Get to know the basics of block programing while programing a robot </h4>
+          </div>
+          <h3 class="biohead">Lethania Martinez</h3>
+          <h5 class="biohead">Basic Robot<br /> Programming</h5>
+        </div>
+      </td>
+      </tr>
+      <tr>
+        <td class="time">
+          11:45
+        </td>
+        <td colspan="3">
+          Lunch<br />Design Competition Showcase
+
+        </td>
+      </tr>
+      <tr>
+
+        <td class="time">
+          13:30
+        </td>
+      <td>
+
+      </td>
+        <td rowspan="2">
+          <div class="bioboxtable ">
+            <div class="hover-image">
+              <img class="bioimgtable" src="pictures/discuss.png" />
+              <h4> </h4>
+            </div>
+            <h3 class="biohead">Discussion Panel</h3>
+            <h5 class="biohead"> Teachers on <br /> Makerspaces
+        </h5>
+          </div>
+        </td>
+
+
+
+        <td>
+          <div class="bioboxtable lightorange">
+            <div class="hover-image">
+              <img class="bioimgtable" src="pictures/coderobot.png" />
+              <h4>4 easy steps to coding an automomous robot that helps encourage students</h4>
+            </div>
+            <h3 class="biohead">Rick Alexanderson</h3>
+            <h5 class="biohead">Hands-on Coding robot<br /> as gateway to at Risk Youth</h5>
+          </div>
+        </td>
+      </tr>
+
+      <tr>
+        <td class="time">
+          14:30
+
+        </td>
+<td>
+
+</td>
+
+
+        <td>
+          <div class="bioboxtable lightorange">
+            <div class="hover-image">
+              <img class="bioimgtable" src="pictures/3d.png" />
+              <h4> </h4>
+            </div>
+            <h3 class="biohead">TBD</h3>
+            <h5 class="biohead">Intro to 3D<br /> printing</h5>
+          </div>
+        </td>
+      </tr>
+    </table>
+
+
+</div>
+
+<hr />
+<div style="border-radius:10px;padding:10px;margin-top:20px">
+
+  <h2 style="text-align:left;">Sunday, October 29<sup>th</sup></h2>
+
+  <center>
+
+    <table class="agendatable">
+      <thead>
+
+        <tr>
+          <th>
+
+          </th>
+          <th>
+            <h3>Maker</h3>
+
+          </th>
+          <th>
+            <h3>Mentor</h3>
+
+          </th>
+          <th>
+            <h3>        Skill <br />Building
+            </h3>
+          </th>
+        </tr>
+      </thead>
+
+      <tr>
+        <td class="time">
+          9:00
+        </td>
+        <td>
+          <div class="bioboxtable yellow">
+            <div class="hover-image">
+              <img class="bioimgtable" src="pictures/tbd.png" />
+              <h4></h4>
+            </div>
+            <h3 class="biohead">TBD</h3>
+            <h5 class="biohead">Robots on a Mission</h5>
+          </div>
+        </td>
+        <td rowspan="2">
+          <div class="bioboxtable ">
+            <div class="hover-image">
+              <img class="bioimgtable" src="pictures/discuss.png" />
+              <h4> </h4>
+            </div>
+            <h3 class="biohead">Discussion Panel</h3>
+            <h5 class="biohead"> Making Makerspace in a University
+    </h5>
+          </div>
+        </td>
+        <td>
+          <div class="bioboxtable lightorange">
+            <div class="hover-image">
+              <img class="bioimgtable" src="pictures/tbd.png" />
+              <h4></h4>
+            </div>
+            <h3 class="biohead">TBD</h3>
+            <h5 class="biohead">Laser<br /> Cutting</h5>
+          </div>
+        </td>
+      </tr>
+
+      <tr>
+        <td class="time">
+          10:00
+        </td>
+        <td rowspan="2">
+
+          <div class="bioboxtable ">
+            <div class="hover-image">
+              <img class="bioimgtable" src="pictures/discuss.png" />
+              <h4> </h4>
+            </div>
+            <h3 class="biohead">Discussion Panel</h3>
+            <h5 class="biohead"> Making a Makerspace <br />in a City
+      </h5>
+          </div>
+        </td>
+
+        <td>
+          <div class="bioboxtable lightorange ">
+            <div class="hover-image">
+              <img class="bioimgtable" src="pictures/ottabotics.png" />
+              <h4>Learn to detect your face using a computer and superimpose and image onto it. Explore OpenCV which is a program used in machine vision and robotics.  </h4>
+            </div>
+            <h3 class="biohead">Ottabotics</h3>
+            <h5 class="biohead"> Giving Robots Vision
+</h5>
+          </div>
+
+        </td>
+
+
+
+      </tr>
+
+      <td class="time">
+        11:00
+      </td>
+
+
+
+      <td>
+        <div class="bioboxtable green">
+          <div class="hover-image">
+            <img class="bioimgtable" src="pictures/pollock.png" />
+            <h4>The mindset is so much more important than the stuff or space. Make space in your context for learners to make. Support them in questioning, design, discovery, prototyping and iteration.  </h4>
+          </div>
+          <h3 class="biohead">Shauna Pollock</h3>
+          <h5 class="biohead">Making Space<br /> for Makerspace</h5>
+        </div>
+      </td>
+      <td>
+        <div class="bioboxtable lightorange">
+          <div class="hover-image">
+            <img class="bioimgtable" src="pictures/mspace.png" />
+            <h4><u>Invent. Build. Play</u><br />The Richard L'Abb&#233; Makerspace is a student run space that allows people to prototype, collaborate and build their dream projects</h4>
+          </div>
+          <h3 class="biohead">TBD</h3>
+          <h5 class="biohead">Tour of the Richard L'Abb&#233; Makerspace</h5>
+        </div>
+      </td>
+      </tr>
+      <tr>
+        <td class="time">
+          11:45
+        </td>
+        <td colspan="3">
+          Lunch<br />MakerShow
+
+        </td>
+      </tr>
+      <tr>
+        <td class="time">
+          13:30
+        </td>
+        <td>
+            <div class="bioboxtable yellow">
+          <div class="hover-image">
+            <img class="bioimgtable" src="pictures/elad.png" />
+            <h4> </h4>
+          </div>
+          <h3 class="biohead">Elad Tzemach</h3>
+          <h5 class="biohead">The Reality of <br />Virtual Reality
+        </h5>
+        </div>
+
+        </td>
+
+
+        <td>
+          <div class="bioboxtable green ">
+            <div class="hover-image">
+              <img class="bioimgtable" src="pictures/tbd.png" />
+              <h4> </h4>
+            </div>
+            <h3 class="biohead">TBD</h3>
+            <h5 class="biohead"> Maker Culture in <br />Indigenous Communities
+</h5>
+          </div>
+        </td>
+        <td>
+          <div class="bioboxtable lightorange">
+            <div class="hover-image">
+              <img class="bioimgtable" src="pictures/brunsfield.png" />
+              <h4><u>Think Big, Build Bigger</u><br />Visit a space for engineering students to deisgn, fabricate, and test complex prototypes </h4>
+            </div>
+            <h3 class="biohead">TBD</h3>
+            <h5 class="biohead">Tour of the<br />Brunsfield Centre</h5>
+          </div>
+        </td>
+      </tr>
+
+      <tr>
+        <td class="time">
+          14:30
+        </td ><td colspan="3">
+          Closing Ceremony
+
+        </td>
+
+
+
+      </tr>
+            </table>

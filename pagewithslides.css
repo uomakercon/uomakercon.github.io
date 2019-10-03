@@ -1,0 +1,74 @@
+article {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  z-index: 1;
+
+}
+.divslider {
+  max-width: 980px;
+  margin: auto;
+  margin-top: 160px!important;
+  margin-bottom: 16px!important;
+  z-index: 1;
+}
+
+.mySlides {
+  width: 100%;
+  max-width: 2500px;
+  margin-top: 0px!important;
+    z-index: 1;
+}
+
+
+
+/*logo on side with two lines of text*/
+@media (max-width: 992px) {
+.w3-content{
+  /*padding-top:*/
+}
+
+.navbar a{
+  font-size: 0.8em;
+}
+
+}
+
+@media (max-width: 808px) {
+.w3-content{
+  /*padding-top:*/
+}
+
+.navbar a{
+  font-size: 0.8em;
+}
+nav {
+}
+.logoheader {
+  float: none;
+  width: 100px;
+  display: block;
+  margin: auto;
+}
+article {
+  padding-top: 3px;
+}
+.centerimg {
+  align: center;
+  display: block;
+
+}
+.navbar{
+  margin: auto;
+  align:center;
+  position: static;
+
+}
+.navbarcolour{
+  margin: auto;
+  align:center;
+  display: block;
+  position: static;
+
+}
+
+}

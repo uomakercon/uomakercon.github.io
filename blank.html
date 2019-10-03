@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,900" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <title>OMMIC</title>
+  <meta charset="utf-8" />
+
+
+  <link rel="icon" type="image/png" href="pictures/favicon.png">
+  <link href="https://cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+  <style type="text/css">
+    #mc_embed_signup {
+      background: #fff;
+      clear: left;
+      font: 14px Helvetica, Arial, sans-serif;
+    }
+  </style>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+  <div class="navbarcolour">
+    <div class="navbar">
+
+
+    <div class="centerimg">
+      <img src="pictures/Branding/logoblack.png" class="logoheader" >
+
+    </div>
+
+    <a href="index.html">Home</a>
+    <a href="news.html">News</a>
+    <a href="2017.html">OMMIC 2017</a>
+    <a href="competitions.html">Competitions</a>
+
+    <a href="2016.html">Past Events</a>
+    <a href="sponsorus.html">Sponsor Us</a>
+    <a href="contact.html">Contact</a>
+  </div>
+</div>
+  <div style="max-width: 80%; margin-left:auto;margin-right:auto;">
+<article>
+
+</article>
+
+</div>
+  <footer>
+    <a href="https://www.facebook.com/OMMIConference/?hc_ref=ARQKxPGRhiPQ1ZiIPno01NPJrDnJQR-cfzyEFn9eDZWD_EigD40nkXa1DCXXiLaGZsc&fref=nf" class="fa fa-facebook"></a>
+    <a href="https://twitter.com/ommiconference" class="fa fa-twitter"></a>
+    <a href="privacy.html"   class="footer">Privacy Policy</a>
+    <a href="terms.html"  class="footer">Terms of Service</a>
+
+  </footer>
+</body>
+
+
+<script>
+  var myIndex = 0;
+  carousel();
+
+  function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none";
+    }
+    myIndex++;
+    if (myIndex > x.length) {
+      myIndex = 1
+    }
+    x[myIndex - 1].style.display = "block";
+    setTimeout(carousel, 6000); // Change image every 6 seconds
+  }
+</script>
+
+
+</html>

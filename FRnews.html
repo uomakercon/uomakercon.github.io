@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,900" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" type="text/css" href="pagewithslides.css">
+
+  <title>OMMIC</title>
+  <meta charset="utf-8" />
+  <link rel="icon" type="image/png" href="pictures/favicon.png">
+  <link href="https://cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+  <style type="text/css">
+    #mc_embed_signup {
+      background: #fff;
+      clear: left;
+      font: 14px Helvetica, Arial, sans-serif;
+    }
+    @media (max-width: 893px) {
+      aside{
+        display: none;
+      }
+    }
+
+
+  </style>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+  <div class="navbarcolour">
+    <div class="navbar">
+
+
+    <div class="centerimg">
+      <img src="pictures/Branding/logoblack.png" class="logoheader" >
+
+    </div>
+<a href="FRindex.html">Page d'accueil</a>
+      <a href="FRnews.html">Actualités</a>
+      <a href="FR2018.html">OMMIC 2018</a>
+      <!--<a href="2017.html">OMMIC 2017</a>-->
+      <a href="FRcompetitions.html">Concours</a>
+      <a href="FR2016.html">Événements passés</a>
+      <a href="FRsponsorus.html">Parrainez-nous</a>
+      <a  href="FRcontactus.html">Contactez</a>
+    &nbsp;
+      <a href="index.html">EN</a>
+    </div>
+    </div>
+  <center>
+
+
+    <!-- Slideshow at top  -->
+    <div class="w3-content w3-section" style="background-color:#333;" >
+      <img class="mySlides" src="pictures/DATE.png">
+      <img class="mySlides" src="pictures/THEME.png">
+      <img class="mySlides" src="pictures/Speakers.png">
+
+  </center>
+  </div>
+  <article>
+    <aside>
+      <!-- hide .twitter-timeline with a media query when screen is smaller -->
+      <a class="twitter-timeline" data-height="550" data-link-color="#ff6412" href="https://twitter.com/ommiconference">Tweets by ommiconference</a> <script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+    </aside>
+
+
+
+    <div style="max-width: 85%; margin-left:auto;margin-right:auto;">
+
+  <h1>Actualités</h1><hr/>
+<a href=blog/2017-08-19.html><h3>Le Makerspace d'Ottawa</h3></a>
+<p>
+Apprenez-en davantage sur notre prise 3 du Makerspace d'Ottawa. Vous voudrez peut-être les consulter tous !
+</p>
+
+<h3>Annonce de l'OMMIC 2018</h3>
+<h4>Publié: 2018-08-16</h4>
+<p>
+  Des nouvelles excitantes ! Les dates et le thème de la conférence OMMIC de cette année ont été publiés ! Joignez-vous à nous cette année du 26 au 28 octobre alors que nous explorons "Making Globally".
+  L'application pour les conférenciers est maintenant ouverte. Si vous êtes intéressé, veuillez cliquer sur le bouton ci-dessous pour en savoir plus.
+</p>
+<center>
+
+<a href="appspeaker.html"><button type="button"class="pagebutton" style="width:30%;min-width:200px">Plus d'informations sur le rôle de conférencier</button></a>
+</center>
+<p>
+  Le samedi 27 octobre, il y aura une vitrine et un concours de design. Pour plus d'informations, veuillez cliquer sur le lien concours en haut ou sur le bouton ci-dessous.
+</p>
+
+
+<center>
+
+<a href="competitions.html"><button type="button"class="pagebutton"style="width:30%;min-width:200px">Plus d'informations sur les concours</button></a>
+</center>
+
+<div style="margin-top:100px;display:block;background-color:#ddd;">
+
+<h1>Contactez-nous</h1>
+<center>
+  <table class="contact">
+    <tr>
+      <td>
+        <h3>Adresse postale</h3>
+      </td>
+      <td>
+        <h3>Demandes de renseignements sur les commandites</h3>
+      </td>
+      <td>
+          <h3>Renseignements généraux</h3>
+      </td>
+    </tr>
+    <td>
+      Faculty of Engineering Deans Office<br />
+Attn: OMMIC Organizing Committee<br />
+161 Louis Pasture Private<br />
+Ottawa, Ontario, K1N 6N5
+
+    </td>
+      <td>
+
+
+   Justine Boudreau<br />
+Director of Finance<br />
+<a href="mailto:finance@ommic.ca?Subject=Sponsorship%20inquiry" target="_top">finance@ommic.ca</a>
+
+      </td>
+
+      <td>
+        Zaineb Al-Faesly<br />
+        Director of Operations<br />
+          <a href="mailto:info@ommic.ca?Subject=General%20inquiry" target="_top">info@ommic.ca</a>
+      </td>
+    </tr>
+  </table>
+</center>
+
+</div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+  <footer>
+    <a href="#" class="fa fa-facebook"></a>
+    <a href="#" class="fa fa-twitter"></a>
+    <a href="#"   class="footer">Privacy Policy</a>
+    <a href="#"  class="footer">Terms of Service</a>
+
+  </footer>
+</body>
+
+
+<script>
+  var myIndex = 0;
+  carousel();
+
+  function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none";
+    }
+    myIndex++;
+    if (myIndex > x.length) {
+      myIndex = 1
+    }
+    x[myIndex - 1].style.display = "block";
+    setTimeout(carousel, 6000); // Change image every 6 seconds
+  }
+</script>
+
+
+</html>

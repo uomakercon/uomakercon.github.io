@@ -1,0 +1,104 @@
+article {
+  margin-top: 90px;
+  margin-bottom: 20px;
+}
+/*Logo on side with 2 lines of text*/
+@media (max-width: 992px) {
+  nav {
+  }
+
+  .navbarcolour a{
+    font-size: 0.8em;
+  }
+
+}
+/*Logo on top with 2 lines of text*/
+@media (max-width: 808px) {
+  nav {
+  }
+  .logoheader {
+    float: none;
+    width: 200px;
+    display: block;
+    margin: auto;
+  }
+  article {
+    padding-top: 100px;
+  }
+  .centerimg {
+    align: center;
+    display: block;
+
+  }
+
+  .navbarcolour{
+    margin: auto;
+    align:center;
+
+  }
+}
+@media (max-width: 533px) {
+  nav {
+  }
+  .logoheader {
+    float: none;
+    width: 200px;
+    display: block;
+    margin: auto;
+  }
+  article {
+    padding-top: 100px;
+    margin: 100px;
+  }
+  .centerimg {
+    align: center;
+    display: block;
+
+  }
+
+  .navbar{
+    margin: auto;
+    align:center;
+    position: static;
+
+  }
+  .navbarcolour{
+    margin-bottom: 20px;
+    align:center;
+    display: block;
+    position: static;
+
+  }
+}
+
+@media (max-width: 369px) {
+  nav {
+  }
+  .logoheader {
+    float: none;
+    width: 100px;
+    display: block;
+    margin: auto;
+  }
+  article {
+    padding-top: 3px;
+  }
+  .centerimg {
+    align: center;
+    display: block;
+
+  }
+  .navbar{
+    margin: auto;
+    align:center;
+    position: fixed;
+
+  }
+  .navbarcolour{
+    margin: auto;
+    align:center;
+    display: block;
+    position: fixed;
+
+  }
+}
